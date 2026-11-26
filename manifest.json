@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Senada — Pemutar Musik Offline",
+  "short_name": "Senada",
+  "description": "Pemutar musik pribadi yang menyimpan lagu di perangkat dan bisa dipakai offline.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111312",
+  "theme_color": "#111312",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
